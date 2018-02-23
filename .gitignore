@@ -20,7 +20,6 @@ gen/
 
 # Gradle files
 .gradle/
-gragle/
 build/
 /*/build/
 
